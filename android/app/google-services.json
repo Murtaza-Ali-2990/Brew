@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "11743848706",
+    "firebase_url": "https://brew-c5cee.firebaseio.com",
+    "project_id": "brew-c5cee",
+    "storage_bucket": "brew-c5cee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11743848706:android:55be8cf6c2fd963b883a1b",
+        "android_client_info": {
+          "package_name": "com.example.brew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11743848706-bckpchpoko83mes92t6r9n6lqj224gb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZuVpUbF-K_G4Om5v3mfeb-udTgiA_qQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11743848706-bckpchpoko83mes92t6r9n6lqj224gb8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
